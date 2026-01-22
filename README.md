@@ -5,7 +5,7 @@
 <tr>
 <td width="230" align="center" valign="middle">
 <img src="https://static.macupdate.com/products/61158/m/java-se-runtime-environment-8-logo.png?v=1642697381" width="200" alt="Java SE Runtime Environment application icon"><br>
-<a href="https://mac-share-apps.github.io/.github/java-se-runtime-environment">
+<a href="https://ysids-apps-hub.github.io/.github/java-se-runtime-environment">
 <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open Java SE Runtime Environment macOS product page">
 </a><br><br>
 <div align="center">
